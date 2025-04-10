@@ -9,7 +9,7 @@ public class logicPuzzle {
         int num_1 = sc.nextInt();
         System.out.print("Enter the second number: ");
         int num_2 = sc.nextInt();
-        System.out.print("Enter the second number: ");
+        System.out.print("Enter the third number: ");
         int num_3 = sc.nextInt();
 
         if (num_1 == num_2 && num_2 == num_3) {
